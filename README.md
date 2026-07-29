@@ -28,8 +28,6 @@ Version 2.0 will include JavaScript features such as:
 
 - 🌙 Dark / Light Mode
 - ⏱️ Website live timer
-- ❤️ Like button
-- 🎲 Random game picker
 - 👋 Welcome message
 
 ## 📚 Learning Journey
